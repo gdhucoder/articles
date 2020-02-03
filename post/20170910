@@ -1,0 +1,36 @@
+关于DBN的参考文献
+
+A model for reasonin about persistence and causation
+abstract
+1.introduction
+2.prediction and persistence
+3.reasoning about causation
+4.a model for reasoning about change
+	a Bayesian inference net for reasoning about time 
+	Fig-4 Fig-5 Fig-6 这几个图画出了网格，但是RDDL文档中没有。
+	表示比较直观；arc表示依赖关系
+5.computing probabilistic predictions
+6.fundamental problems in reasoning
+7.conclusions
+
+
+收获：
+temporal reasoning. probabilistic model. 
+加上了时间。
+
+probability network:
+1.more direct than Markov model
+2.encoding(编码) more compat O(2^m * kn)
+
+reasoning about change overtime
+
+
+其中术语的定义：
+fluents is defined in
+
+**define Concepts
+SOME PHILOSOPHICAL PROBLEMS FROM THE STANDPOINT OF ARTIFICIAL INTELLIGENCE
+John McCarthy and Patrick J. Hayes
+http://www-formal.stanford.edu/jmc/mcchay69.pdf
+
+A fluent is a function whose domain is the space Sit of situations.
