@@ -1,4 +1,4 @@
---
+---
 title: "Composite Pattern"
 date: 2020-01-04T10:20:03+08:00
 draft: false
