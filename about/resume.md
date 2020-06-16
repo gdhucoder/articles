@@ -22,6 +22,8 @@ categories:
 
 邮箱：guodong_hu\[at\]126.com
 
+微信：guodong-hu
+
 ## 期望职位
 
 Java开发，工作地点：深圳
