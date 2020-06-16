@@ -2,6 +2,8 @@
 
 胡国栋
 
+生日：1987年8月
+
 邮箱：guodong_hu\[at\]126.com
 
 微信：guodong-hu
