@@ -27,7 +27,7 @@ Java开发，工作地点：深圳
 
 ## 学术成果
 
-- D. Rao, **G. Hu** and Z. Jiang, "[PRobPlan: A Framework of Integrating Probabilistic Planning into ROS](https://ieeexplore.ieee.org/document/9109556)," in IEEE Access, doi: 10.1109/ACCESS.2020.3000293.，（二区，IF 4.098）。文章主要贡献：将概率任务规划与ROS整合，实现了高层的任务规划。
+- D. Rao, **G. Hu** and Z. Jiang, "[PRobPlan: A Framework of Integrating Probabilistic Planning into ROS](https://ieeexplore.ieee.org/document/9109556)," in IEEE Access, doi: 10.1109/ACCESS.2020.3000293.，（二区，IF 4.098）。文章主要贡献：将概率任务规划与ROS整合，实现了高层的任务规划。[code](https://github.com/fip-lab/PRobPlan)，[video](https://www.youtube.com/watch?v=EUkA_HW_2MM)
 
 - 专利：饶东宁，**胡国栋**，一种在ROS上利用非经典规划器实现任务规划的方法及系统，202010136167.6
 
