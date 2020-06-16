@@ -1,21 +1,3 @@
----
-title: "个人简历"
-date: 2020-06-14T03:58:07+08:00
-draft: false
-tags: 
-   - Markdown
-   - 语言
-categories:
-  - 归档
----
-
-[TOC]
-
-个人简历
-
-<!--more-->
-
-
 # 个人简历
 
 胡国栋
