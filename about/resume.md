@@ -1,3 +1,14 @@
+---
+title: "个人简历"
+date: 2017-08-14T03:58:07+08:00
+draft: true
+tags: 
+   - Markdown
+   - 语言
+categories:
+  - 归档
+---
+
 # 个人简历
 
 胡国栋
