@@ -15,6 +15,14 @@ categories:
 
 <!--more-->
 
+2021-01-10
+
+[x]​打字练习
+[x]周赛完成2题 
+[] Neural Networks and Deep Learning 第二周 完成 70%
+[]《pytorch深度学习》第7章RNN 完成 10%
+[]
+
 2020-05-19
 
 - 准备申请答辩审核资料
